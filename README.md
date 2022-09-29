@@ -1,6 +1,5 @@
 # MechaCar_Statistical_Analysis-
 
-<<<<<<< HEAD
 ## Linear Regression to Predict MPG
 
 ###### Vehicle_length, ground_clearance, and intercept are the three non-random amounts of variance against mpg values.  According to the p-value of 5.35e-11, the linear model slope is not considered to be zero. Since the r-squared value is .7149, the linear model has a high positive prediction rate of mpg.  These facts can be seen in the image below:
@@ -21,6 +20,3 @@
 
 ## Study Design: MechaCar vs Competition
 ###### Null hypothesis could be based on horsepower with Mechacar vs all Japanese models.  A t-tes could be done to find the data variations and use the p-test to see which cars are over the threshold of .05.
-=======
-## Summary Statistics on Suspension Coils
->>>>>>> f18fa206ecf4e6fd75879d56da8bf0f150e8be7e
