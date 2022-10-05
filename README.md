@@ -2,12 +2,12 @@
 
 ## Linear Regression to Predict MPG
 
-###### Vehicle_length, ground_clearance, and intercept are the three non-random amounts of variance against mpg values.  According to the p-value of 5.35e-11, the linear model slope is not considered to be zero. Since the r-squared value is .7149, the linear model has a high positive prediction rate of mpg.  These facts can be seen in the image below:
+###### Vehicle_length and ground_clearance created more than non-random variance to mpg values.  The linear model slope is not considered to be zero because p-value of 5.35e-11 is less than 0.05. With the data given, the r-squared value is .7149, This amount of data results in the linear model having a reasonable positive prediction rate of mpg. With better data, the r-square would probably be closer to 1 indicating a better linear model.    These facts can be seen in the image below:
 ![linear regression](https://github.com/ramon0101alonso/MechaCar_Statistical_Analysis-/blob/main/Deliverable%201.png)
 
 ## Summary Statistics on Suspension
 
-###### When combining the current manufacturing data, the suspension coils are less than the required 100 pounds per square inch.  Lot 1 and 2 also meet the requirement as individuals.  Lot 3 exceeds the threshhold.  Below is the data to back up these statements.
+###### When all three lots are combined, the variance is about 62 lbs per square inch which is less than the required 100 pounds per square inch.  Lot 1 and 2 also meet the requirement as individuals.  Lot 3 exceeds the threshhold of 100 lbs per square inch.  Below is the data to back up these statements.
 ![summary](https://github.com/ramon0101alonso/MechaCar_Statistical_Analysis-/blob/main/Deliverable%202%20Summary.png)
 ![lot](https://github.com/ramon0101alonso/MechaCar_Statistical_Analysis-/blob/main/Deliverable%202%20Lot.png)
 
